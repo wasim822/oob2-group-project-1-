@@ -36,10 +36,10 @@ using ProblemDomain;
 
 public class ApplianceManager
 {
-    /// This list holds all loaded appliances from the file
+    /// Appliances
     private List<Appliance> appliances = new List<Appliance>();
 
-    // Reads the appliance file and populates the appliances list
+    ///populates the appliances list
     public void LoadAppliances(string filePath)
     {
         try
@@ -56,7 +56,7 @@ public class ApplianceManager
 
                     int type = GetApplianceType(itemNumber);
 
-                    // Determine appliance type and create corresponding object
+                    /// appliance type and create object
                     Appliance appliance = type switch
                     {
                         1 => CreateRefrigerator(parts),
@@ -77,7 +77,7 @@ public class ApplianceManager
         }
     }
 
-    /// Extracts first digit of item number to determine appliance type
+    /// determine appliance type
     private int GetApplianceType(string itemNumber)
     {
         if (!string.IsNullOrEmpty(itemNumber) && itemNumber.Length > 0)
@@ -142,25 +142,25 @@ public class ApplianceManager
         );
     }
 
-    /// Returns full list of appliances (used by other parts of the program)
+    /// Returns appliances
     public List<Appliance> GetAppliances()
     {
         return appliances;
     }
 
-    /// Finds appliance by exact item number
+    /// get appliance by item number
     public Appliance FindByItemNumber(string itemNumber)
     {
         return appliances.Find(a => a.ItemNumber == itemNumber);
     }
 
-    /// Finds appliances matching a specific brand (case-insensitive)
+    /// Finds appliancesand brand 
     public List<Appliance> FindByBrand(string brand)
     {
         return appliances.FindAll(a => a.Brand.Equals(brand, StringComparison.OrdinalIgnoreCase));
     }
 
-    /// Returns a list of random appliances
+    /// Returns a list of appliances
     public List<Appliance> GetRandomAppliances(int count)
     {
         var random = new Random();
