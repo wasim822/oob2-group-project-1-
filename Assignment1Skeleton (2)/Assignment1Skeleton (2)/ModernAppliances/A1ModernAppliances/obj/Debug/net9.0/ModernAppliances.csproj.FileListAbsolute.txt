@@ -1,0 +1,30 @@
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.exe
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.deps.json
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.runtimeconfig.json
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.dll
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.pdb
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.sourcelink.json
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.dll
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\refint\ModernAppliances.dll
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.pdb
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\ksehmi\Downloads\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ref\ModernAppliances.dll
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.dll
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\refint\ModernAppliances.dll
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.pdb
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.exe
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\appliances.txt
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.deps.json
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.runtimeconfig.json
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.dll
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\bin\Debug\net9.0\ModernAppliances.pdb
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Wasim B\Downloads\Assignment1Skeleton (2)\Assignment1Skeleton (2)\ModernAppliances\A1ModernAppliances\obj\Debug\net9.0\ref\ModernAppliances.dll
